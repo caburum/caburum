@@ -4,7 +4,7 @@
 
 💬 Working on [Cabot](https://github.com/CCreativeCND/Cabot)
 
-💻 Using Python and Javascript
+💻 Using NodeJS/JavaScript, HTML, and Python
 
 🤔 Learning to code even better
 
