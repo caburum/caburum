@@ -1,4 +1,12 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ccreativecnd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ccreativecnd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+💬 Working on [Cabot](https://github.com/CCreativeCND/Cabot)
+
+💻 Using Python and Javascript
+
+🤔 Learning to code even better
 
 <!--
 **CCreativeCND/CCreativeCND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
