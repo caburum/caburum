@@ -2,23 +2,10 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=caburum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caburum&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-💬 Working on [Cabot](https://github.com/caburum/Cabot)
+💬 Working on [Coast3rCount](https://github.com/caburum/Coast3rCount)
 
 💻 Using NodeJS/JavaScript and HTML
 
-🤔 Learning to code even better
+🤔 Learning NoSQL databases and authentication
 
-<!--
-**Caburum/Caburum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Improving my code
