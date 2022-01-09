@@ -3,6 +3,6 @@
 
 💬 Working on [various projects](https://github.com/caburum?tab=repositories)
 
-💻 Using NodeJS/JavaScript, Gatsby/React, and HTML
+💻 Using JavaScript, Gatsby/React, Python, HTML, and CSS
 
-🤔 Learning [three.js](https://github.com/mrdoob/three.js), databases, and authentication
+<!-- 🤔 Learning [three.js](https://github.com/mrdoob/three.js), databases, and authentication -->
