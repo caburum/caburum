@@ -3,6 +3,8 @@
 
 💬 Working on [various projects](https://github.com/caburum?tab=repositories)
 
-💻 Using JavaScript, Gatsby/React, Python, HTML, and CSS
+💼 Check out [my portfolio](https://calum.ml)
 
-<!-- 🤔 Learning [three.js](https://github.com/mrdoob/three.js), databases, and authentication -->
+<!-- 💻 Using -->
+
+<!-- 🤔 Learning  -->
