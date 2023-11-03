@@ -3,7 +3,7 @@
 
 💬 Working on [various projects](https://github.com/caburum?tab=repositories)
 
-💼 Check out [my portfolio](https://calum.ml)
+💼 Check out [my portfolio](https://calum-portfolio.vercel.app)
 
 <!-- 💻 Using -->
 
